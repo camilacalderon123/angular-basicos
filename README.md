@@ -12,6 +12,6 @@ This project is about learning the basics of Angular Framework
 - Pipes
 - Services
 
-## Link de la app desplegada
+## Link 
 Mini project where basic knowledge of Angular is applied [Dragon Ball Z App](https://profound-conkies-463157.netlify.app/)
 
